@@ -5,7 +5,6 @@ import './styles/style.scss';
 
 const App = () => {
 
-
     return (
         <BrowserRouter>
             <Routes>
